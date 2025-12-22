@@ -3,19 +3,19 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:abd200,100:0d1117&height=200&section=header&text=Ashis%20Raj&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Test%20Automation%20Architect%20%7C%20QE%20Transformation%20Leader%20%7C%20SDET%20Manager%20%7C%20Playwright%2C%20Cypress%2C%20API%20Automation%20%7C%20CI%2FCD%2C%20Cloud&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Ashis%20Raj&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Test%20Automation%20Architect%20%7C%20QE%20Transformation%20Leader%20%7C%20SDET%20Manager%20%7C%20Playwright%2C%20Cypress%2C%20API%20Automation%20%7C%20CI%2FCD%2C%20Cloud&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AshisRaj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Test%20Automation%20Architect%20%40%20GlobalLogic%20%7C%20Builds%20Automation%20Framework%20and%20Teams%20%7C%20Javascript%2FTypescript%2C%20Cypress%2C%20Playwright%2C%20Python%2C%20Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Test%20Automation%20Architect%20%40%20GlobalLogic%20%7C%20Builds%20Automation%20Framework%20and%20Teams%20%7C%20Javascript%2FTypescript%2C%20Cypress%2C%20Playwright%2C%20Python%2C%20Java" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Enterprise-abd200?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/8+_Years-On_GitHub-abd200?style=for-the-badge" alt="years"/>
-  <img src="https://img.shields.io/badge/28-Stars_Earned-abd200?style=for-the-badge" alt="stars"/>
-  <img src="https://komarev.com/ghpvc/?username=AshisRaj&style=for-the-badge&color=abd200" alt="views"/>
+  <img src="https://img.shields.io/badge/Focus-Enterprise-58a6ff?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/8+_Years-On_GitHub-58a6ff?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/28-Stars_Earned-58a6ff?style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=AshisRaj&style=for-the-badge&color=58a6ff" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -29,7 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
 📍 **Noida**
@@ -63,17 +63,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshisRaj&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshisRaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AshisRaj&theme=tokyo-night&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AshisRaj&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshisRaj&theme=tokyo-night&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AshisRaj&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
@@ -92,21 +92,10 @@
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="robotframework"/>
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit"/>
-<img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
-<img src="https://img.shields.io/badge/SpecFlow-7B3399?style=for-the-badge&logo=specflow&logoColor=white" alt="specflow"/>
 <img src="https://img.shields.io/badge/Karate-00DC82?style=for-the-badge&logo=karate&logoColor=white" alt="karate"/>
-<img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
 <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
-<img src="https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white" alt="gatling"/>
-<img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6"/>
-<img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" alt="appium"/>
 </div>
 
 </td>
@@ -115,18 +104,13 @@
 <h3 align="center">💻 Development</h3>
 <br/>
 <div align="center">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
 </div>
 
 </td>
@@ -137,13 +121,9 @@
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
 </div>
 
 </td>
@@ -157,12 +137,12 @@
 
 <div align="center">
 
-<a href="https://github.com/AshisRaj/cucelastic-maven-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=cucelastic-maven-plugin&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="cucelastic-maven-plugin"/></a>
-<a href="https://github.com/AshisRaj/Blog-Post"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Blog-Post&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Blog-Post"/></a>
-<a href="https://github.com/AshisRaj/bdd-with-cucumber-selenium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=bdd-with-cucumber-selenium&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="bdd-with-cucumber-selenium"/></a>
-<a href="https://github.com/AshisRaj/playwright-ui-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=playwright-ui-test-framework&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="playwright-ui-test-framework"/></a>
-<a href="https://github.com/AshisRaj/Karate-API-Tests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Karate-API-Tests&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Karate-API-Tests"/></a>
-<a href="https://github.com/AshisRaj/AshisRaj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=AshisRaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="AshisRaj"/></a>
+<a href="https://github.com/AshisRaj/cucelastic-maven-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=cucelastic-maven-plugin&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="cucelastic-maven-plugin"/></a>
+<a href="https://github.com/AshisRaj/Blog-Post"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Blog-Post&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Blog-Post"/></a>
+<a href="https://github.com/AshisRaj/bdd-with-cucumber-selenium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=bdd-with-cucumber-selenium&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="bdd-with-cucumber-selenium"/></a>
+<a href="https://github.com/AshisRaj/playwright-ui-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=playwright-ui-test-framework&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="playwright-ui-test-framework"/></a>
+<a href="https://github.com/AshisRaj/Karate-API-Tests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Karate-API-Tests&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Karate-API-Tests"/></a>
+<a href="https://github.com/AshisRaj/AshisRaj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=AshisRaj&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="AshisRaj"/></a>
 
 </div>
 
@@ -290,7 +270,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:abd200,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [AshisRaj](https://github.com/AshisRaj) with ❤️**
 
