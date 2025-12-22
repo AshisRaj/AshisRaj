@@ -29,7 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
 📍 **Noida**
@@ -63,17 +63,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshisRaj&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshisRaj&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AshisRaj&theme=merko&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AshisRaj&theme=tokyo-night&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshisRaj&theme=merko&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AshisRaj&theme=tokyo-night&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
@@ -157,12 +157,12 @@
 
 <div align="center">
 
-<a href="https://github.com/AshisRaj/cucelastic-maven-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=cucelastic-maven-plugin&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="cucelastic-maven-plugin"/></a>
-<a href="https://github.com/AshisRaj/Blog-Post"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Blog-Post&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Blog-Post"/></a>
-<a href="https://github.com/AshisRaj/bdd-with-cucumber-selenium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=bdd-with-cucumber-selenium&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="bdd-with-cucumber-selenium"/></a>
-<a href="https://github.com/AshisRaj/playwright-ui-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=playwright-ui-test-framework&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="playwright-ui-test-framework"/></a>
-<a href="https://github.com/AshisRaj/Karate-API-Tests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Karate-API-Tests&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Karate-API-Tests"/></a>
-<a href="https://github.com/AshisRaj/AshisRaj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=AshisRaj&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="AshisRaj"/></a>
+<a href="https://github.com/AshisRaj/cucelastic-maven-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=cucelastic-maven-plugin&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="cucelastic-maven-plugin"/></a>
+<a href="https://github.com/AshisRaj/Blog-Post"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Blog-Post&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Blog-Post"/></a>
+<a href="https://github.com/AshisRaj/bdd-with-cucumber-selenium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=bdd-with-cucumber-selenium&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="bdd-with-cucumber-selenium"/></a>
+<a href="https://github.com/AshisRaj/playwright-ui-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=playwright-ui-test-framework&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="playwright-ui-test-framework"/></a>
+<a href="https://github.com/AshisRaj/Karate-API-Tests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Karate-API-Tests&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Karate-API-Tests"/></a>
+<a href="https://github.com/AshisRaj/AshisRaj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=AshisRaj&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="AshisRaj"/></a>
 
 </div>
 
