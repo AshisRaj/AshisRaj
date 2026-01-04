@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Ashis%20Raj&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Test%20Automation%20Architect%20%7C%20QE%20Transformation%20Leader%20%7C%20SDET%20Manager%20%7C%20Playwright%2C%20Cypress%2C%20API%20Automation%20%7C%20CI%2FCD%2C%20Cloud&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Ashis%20Raj&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Test%20Automation%20Specialist%20%7C%20Test%20Automation%20Architect%20%7C%20SDET%20Manager%20%7C%20QE%20Manager&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AshisRaj">
