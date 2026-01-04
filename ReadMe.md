@@ -34,49 +34,19 @@
 
 📍 **Noida**
 
-💼 **20+**
+💼 I'm a Principal SDET / Test Automation Architect with deep experience in building scalable, maintainable, and modern test automation frameworks for complex enterprise applications. I specialize in end-to-end quality engineering, blending UI, API, and system-level testing with strong engineering principles to enable fast, reliable, and confident releases.
 
-🔭 Currently working on **[AshisRaj](https://github.com/AshisRaj/AshisRaj)**
+🔭 Currently **available as an immediate joiner**
 
-
-
-
-
-📦 **21** repositories | ⭐ **28** stars | 👥 **9** followers
+📦 **32** repositories | ⭐ **28** stars | 👥 **9** followers
 
 <br clear="right"/>
-
 
 ### 🤝 Open For
 
 <p>
 <img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
-
-
-
-
 </p>
-
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshisRaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AshisRaj&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshisRaj&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
 
