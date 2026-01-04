@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AshisRaj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Test%20Automation%20Architect%20%40%20GlobalLogic%20%7C%20Builds%20Automation%20Framework%20and%20Teams%20%7C%20Javascript%2FTypescript%2C%20Cypress%2C%20Playwright%2C%20Python%2C%20Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Builds%20Automation%20Framework%20and%20Team" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -29,24 +29,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshisRaj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
-
-
 📍 **Noida**
 
 💼 I'm a Principal SDET / Test Automation Architect with deep experience in building scalable, maintainable, and modern test automation frameworks for complex enterprise applications. I specialize in end-to-end quality engineering, blending UI, API, and system-level testing with strong engineering principles to enable fast, reliable, and confident releases.
 
-🔭 Currently **available as an immediate joiner**
+<br clear="right"/>
 
-📦 **32** repositories | ⭐ **28** stars | 👥 **9** followers
+🔭 Currently **available as an immediate joiner**
 
 <br clear="right"/>
 
-### 🤝 Open For
+📦 **32** repositories | ⭐ **28** stars | 👥 **9** followers
 
-<p>
-<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
-</p>
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
 
@@ -102,19 +97,6 @@
 
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AshisRaj/cucelastic-maven-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=cucelastic-maven-plugin&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="cucelastic-maven-plugin"/></a>
-<a href="https://github.com/AshisRaj/Blog-Post"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Blog-Post&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Blog-Post"/></a>
-<a href="https://github.com/AshisRaj/bdd-with-cucumber-selenium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=bdd-with-cucumber-selenium&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="bdd-with-cucumber-selenium"/></a>
-<a href="https://github.com/AshisRaj/playwright-ui-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=playwright-ui-test-framework&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="playwright-ui-test-framework"/></a>
-<a href="https://github.com/AshisRaj/Karate-API-Tests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=Karate-API-Tests&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Karate-API-Tests"/></a>
-<a href="https://github.com/AshisRaj/AshisRaj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AshisRaj&repo=AshisRaj&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="AshisRaj"/></a>
-
-</div>
 
 ### 📊 Top Repositories
 
