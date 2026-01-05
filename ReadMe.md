@@ -51,7 +51,31 @@ I specialize in end-to-end quality engineering, blending UI, API, and system-lev
 
 <br clear="right"/>
 
-📦 **32** repositories | ⭐ **28** stars | 👥 **9** followers
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐_Stars_Earned-28-gold?style=for-the-badge" alt="Stars"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🍴_Total_Forks-21-blue?style=for-the-badge" alt="Forks"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📦_Repositories-32-green?style=for-the-badge" alt="Repos"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/👥_Followers-9-purple?style=for-the-badge" alt="Followers"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📅_Years_Active-8+-orange?style=for-the-badge" alt="Years"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -166,55 +190,9 @@ I specialize in end-to-end quality engineering, blending UI, API, and system-lev
 </tbody>
 </table>
 
-<p align="center">
-  <i>💡 Total of <b>32</b> repositories — <b>28</b> stars earned — <b>21</b> forks</i>
-</p>
-
 
 ---
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📊 Status |
-|:-------------:|:---------:|
-| 🎂 5+ Years on GitHub | ✅ Unlocked |
-| 💻 Java Expert | ✅ Unlocked |
-
-</div>
-
----
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/⭐_Stars_Earned-28-gold?style=for-the-badge" alt="Stars"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🍴_Total_Forks-21-blue?style=for-the-badge" alt="Forks"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-32-green?style=for-the-badge" alt="Repos"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/👥_Followers-9-purple?style=for-the-badge" alt="Followers"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-8+-orange?style=for-the-badge" alt="Years"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect!
 
