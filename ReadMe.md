@@ -167,7 +167,7 @@ I specialize in end-to-end quality engineering, blending UI, API, and system-lev
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>21</b> repositories — <b>28</b> stars earned — <b>21</b> forks</i>
+  <i>💡 Total of <b>32</b> repositories — <b>28</b> stars earned — <b>21</b> forks</i>
 </p>
 
 
@@ -201,7 +201,7 @@ I specialize in end-to-end quality engineering, blending UI, API, and system-lev
 <img src="https://img.shields.io/badge/🍴_Total_Forks-21-blue?style=for-the-badge" alt="Forks"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-21-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-32-green?style=for-the-badge" alt="Repos"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/👥_Followers-9-purple?style=for-the-badge" alt="Followers"/>
