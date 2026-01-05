@@ -29,13 +29,25 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-📍 **Noida**
-
 💼 I'm a Principal SDET / Test Automation Architect with deep experience in building scalable, maintainable, and modern test automation frameworks for complex enterprise applications. I specialize in end-to-end quality engineering, blending UI, API, and system-level testing with strong engineering principles to enable fast, reliable, and confident releases.
+
+I specialize in end-to-end quality engineering, blending UI, API, and system-level testing with strong engineering principles to enable fast, reliable, and confident releases.
+
+🧠 **What I Do**
+- Design automation-first QA architectures from scratch
+- Build Playwright-based test frameworks (TypeScript) for modern web apps and REST APIs
+- Maintain hybrid frameworks combining tests for both UI and API
+- Drive CI/CD quality gates, flaky test reduction, and test observability
+- Mentor teams on clean test code, patterns, and best practices
+- Explore Agentic AI applications in Test Automation (self-healing tests, intelligent test selection, AI-assisted debugging)
 
 <br clear="right"/>
 
 🔭 Currently **available as an immediate joiner**
+
+<br clear="right"/>
+
+📍 **Noida**
 
 <br clear="right"/>
 
@@ -80,7 +92,6 @@
 
 </td>
 <td valign="top" width="33%">
-
 <h3 align="center">⚙️ DevOps & Tools</h3>
 <br/>
 <div align="center">
@@ -88,9 +99,8 @@
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-C71A36?style=for-the-badge&logo=azuredevops&logoColor=blue" alt="azuredevops"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
 </div>
-
 </td>
 </tr>
 </table>
