@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-C71A36?style=for-the-badge&logo=azuredevops&logoColor=blue" alt="azuredevops"/>
 </div>
 
 </td>
